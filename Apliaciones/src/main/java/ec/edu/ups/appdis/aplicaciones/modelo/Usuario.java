@@ -11,5 +11,7 @@ public class Usuario
 	@Id
 	@Column (name = "per_cedula",nullable = false) 
 	private String cedula;
+	private String nombre;
+
 	
 }
