@@ -12,6 +12,6 @@ public class Usuario
 	@Column (name = "per_cedula",nullable = false) 
 	private String cedula;
 	private String nombre;
-
+	private Strin fechaNa;
 	
 }
